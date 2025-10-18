@@ -1,10 +1,10 @@
 # EasyGgantChart サポートページ
 
 ## 利用規約
-(利用規約はこちら)[https://aruga0918.github.io/EasyGantChartTerm/AppTerm]
+[利用規約はこちら](https://aruga0918.github.io/EasyGantChartTerm/AppTerm)
 
 ## プライバシーポリシー
-(プライバシーポリシーはこちら)[https://aruga0918.github.io/EasyGantChartTerm/PrivacyPolicy]
+[プライバシーポリシーはこちら](https://aruga0918.github.io/EasyGantChartTerm/PrivacyPolicy)
 
 ## お問い合わせ
 お問い合わせは以下のメールにて承ります
